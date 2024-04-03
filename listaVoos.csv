@@ -1,0 +1,5 @@
+ID do voo,Data,Matrícula,Aeronave,Origem,Hora partida,Destino,Hora chegada,Kms,Tempo de voo,Pax económica,Receita pax econ,Pax executiva,Receita pax exec,Total pax,Total receita
+1000,2024-02-29,CS-DJB,ATR 72,Lisboa,10:50,Madrid,11:45,530,0:55,55,1200,0,0,55,1200
+1001,2024-01-31,CS-DJE,ATR 72,Ponta Delgada,12:00,Lisboa,12:59,1450,0:59,55,5500,2,300,57,5800
+1002,2024-02-10,CS-TRD,DHC-8-400,Ponta Delgada,15:30,Lisboa,17:20,1450,1:50,68,9800,0,0,68,9800
+1003,2024-02-11,CS-TNY,Airbus A320,Lisboa,07:50,Paris,10:55,1450,3:05,160,45000,20,10,180,45010

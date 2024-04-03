@@ -1,0 +1,11 @@
+ID da rota,Origem,Destino,Distância,Restrição
+R100,Lisboa,Madrid,530,0
+R101,Madrid,Lisboa,530,0
+R200,Lisboa,Ponta Delgada,1450,0
+R201,Ponta Delgada,Lisboa,1450,0
+R203,Corvo,Ponta Delgada,520,1
+R204,Lisboa,Bragança,400,1
+R401,Paris,Lisboa,1450,0
+R202,Ponta Delgada,Corvo,520,1
+R400,Lisboa,Paris,1450,0
+R205,Bragança,Lisboa,400,1
